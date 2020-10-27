@@ -4,9 +4,9 @@ The main objective of this web portal is to provide the digital platform to fres
 ## Functionalities:
 This application consists of students across all the universities and to manage that we need operations that can be managed by SuperUser. Afterward, each university consists of multiple courses and professors that are associated with the courses and to manage that we need operations that can be managed by UniversityAdmin. These two roles play an essential role in the development of the backend for the application. The User i.e. student has a set of functionalities that we will discuss later.
 ### List of Functionalities:
-•	CRUD Universities with validations
-•	CRUD Courses and Professors with validations
-•	University email-based registration and authentication
+- CRUD Universities with validations
+- CRUD Courses and Professors with validations
+- University email-based registration and authentication
 •	Password encryption using SHA-256
 •	Data association between multiple entities
 •	Searching users using various filters i.e. search by university name, aspired role, etc
