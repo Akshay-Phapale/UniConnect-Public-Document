@@ -7,16 +7,15 @@ This application consists of students across all the universities and to manage 
 - CRUD Universities with validations
 - CRUD Courses and Professors with validations
 - University email-based registration and authentication
-•	Password encryption using SHA-256
-•	Data association between multiple entities
-•	Searching users using various filters i.e. search by university name, aspired role, etc
-•	Accept, Reject, Remove, Send a connection request to users
-•	Messaging between the users using Websocket
-•	Course-professor mapping Request from student to university admin
-•	Implementation of Filters to implement Xss Validations
-•	Pagination of the search results
+- Password encryption using SHA-256
+- Data association between multiple entities
+- Searching users using various filters i.e. search by university name, aspired role, etc
+- Accept, Reject, Remove, Send a connection request to users
+- Messaging between the users using Websocket
+- Course-professor mapping Request from student to university admin
+- Implementation of Filters to implement Xss Validations
+- Pagination of the search results
 ### Technology Stack:
-•	Technology Stack:
-•	View/Presentation Layer - JSP
-•	Business Logic Layer - Spring MVC Java Controller using annotations and Hibernate
-•	Data Layer – MySQL
+- View/Presentation Layer - JSP
+- Business Logic Layer - Spring MVC Java Controller using annotations and Hibernate
+- Data Layer – MySQL
