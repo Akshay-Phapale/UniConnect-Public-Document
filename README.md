@@ -1,6 +1,7 @@
 # UniConnect
 **NOTE**
-Main code repository is private.
+
+Main project code repository is private.
 ## Introduction:
 The main objective of this web portal is to provide the digital platform to freshmen to connect with students sharing the same area of interest. Students can search for other student's profiles on various search terms like the stream, job role, university, etc. Students can view the profile without forming a connection with other students. However, to send messages they need to have a connection with the other student. The profile consists of a students’ professional experience, semester wise courses completed, internships/co-op, full-time job role, skillset, etc. Freshman can go through such sections from other student profiles, this will help them to develop their skillset and plan for the courses. This application consist of multiple roles and each role is associated with the set of functionalities.
 ## Functionalities:
